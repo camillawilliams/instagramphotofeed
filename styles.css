@@ -1,0 +1,8 @@
+.navbar {
+    font-family: 'Oleo script', cursive;
+}
+.card {
+        margin: 0 auto; /* Added */
+        float: none; /* Added */
+        margin-bottom: 20px; /* Added */
+}
